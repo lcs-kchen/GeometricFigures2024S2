@@ -8,10 +8,11 @@
 import SwiftUI
 
 @main
+//computed properties
 struct GeometricFigures1App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CircleView()
         }
     }
 }
