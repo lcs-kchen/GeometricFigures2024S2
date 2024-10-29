@@ -12,6 +12,7 @@ protocol Describable {
     var description: String { get }
 }
 
+//2.Process
 // Define the structure, adopting the new protocol
 struct Circle: Describable {
     
